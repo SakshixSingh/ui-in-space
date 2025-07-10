@@ -1,7 +1,7 @@
 // src/main.jsx or src/index.js
 
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './index.css'; // Add galaxy background here
+import './index.css'; 
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
